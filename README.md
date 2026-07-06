@@ -134,7 +134,7 @@ Top 10 Finishers:
 ...
 
 ```
-<img width="1705" height="800" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_56_56 PM" src="https://github.com/user-attachments/assets/23b3712e-f8af-4743-a7ba-02a13b7867d4" />
+<img width="1705" height="633" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_56_56 PM" src="https://github.com/user-attachments/assets/21dd2a78-9648-48d7-917a-7c223d8d30de" />
 <img width="1646" height="696" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_57_02 PM" src="https://github.com/user-attachments/assets/e7771611-82a1-48a7-af5f-f4cb996ec3bf" />
 
 ---
