@@ -1,4 +1,4 @@
-# 🏁 PROJECT 1: THE RACE REPLAY
+<img width="1705" height="800" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_56_56 PM" src="https://github.com/user-attachments/assets/5803656d-7bde-4dbd-b314-24e1effd2664" /># 🏁 PROJECT 1: THE RACE REPLAY
 
 **F1 Race Visualization using FastF1 API**
 
@@ -10,7 +10,7 @@ A Python project that visualizes Formula 1 races in 2D, showing track layouts an
 
 ```
 Project_1_Race_Replay/
-├── README.md                      ← You are here
+├── README.md                      
 ├── requirements.txt               ← All Python packages to install
 ├── project_1_race_replay.py      ← Main Python script
 ├── docs/
@@ -23,7 +23,7 @@ Project_1_Race_Replay/
 
 ---
 
-## 🚀 QUICK START (5 Minutes)
+## 🚀 IF YOU WANNA TRY TOO THEN QUICK TIPS (5 Minutes)
 
 ### 1️⃣ Install Python Packages
 Open your terminal/command prompt and run:
@@ -132,14 +132,17 @@ Top 10 Finishers:
  2. LEC - Team: Scuderia Ferrari           - Points: 18
  3. SAI - Team: Scuderia Ferrari           - Points: 15
 ...
+
 ```
+<img width="1705" height="800" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_56_56 PM" src="https://github.com/user-attachments/assets/23b3712e-f8af-4743-a7ba-02a13b7867d4" />
+<img width="1646" height="696" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_57_02 PM" src="https://github.com/user-attachments/assets/e7771611-82a1-48a7-af5f-f4cb996ec3bf" />
+
+---
 
 ### Visual Output:
 Two PNG files showing:
-- Track layout with grid lines
-- Car positions as colored circles
-- Driver names and numbers
-- Start/finish line marked
+<img width="1600" height="818" alt="Figure 1 7_6_2026 11_55_40 PM" src="https://github.com/user-attachments/assets/de1739b9-db71-467d-9a87-5c4370746165" />
+<img width="1594" height="865" alt="Figure 1 7_6_2026 11_56_41 PM" src="https://github.com/user-attachments/assets/e3678721-4dd1-4c45-85a9-668c31e7c4e3" />
 
 ---
 
@@ -162,42 +165,15 @@ pip install --upgrade fastf1
 
 ---
 
-## 📚 Key Concepts
-
-### Session Types
-- `'FP1'` = Free Practice 1
-- `'FP2'` = Free Practice 2
-- `'FP3'` = Free Practice 3
-- `'Q'` = Qualifying
-- `'R'` = Race
-
-### What's Being Visualized
-- **Track Layout** - Outline of the circuit
-- **Car Positions** - Where each car is at a specific lap
-- **Team Colors** - Ferrari red, Mercedes silver, etc.
-- **Driver Info** - Three-letter abbreviation + car number
-
----
-
-## 🎓 Next Steps
-
-1. **Run the script as-is** - Get familiar with the output
-2. **Try different races** - Experiment with different YEAR/ROUND values
-3. **Customize visualizations** - Change lap numbers, add new features
-4. **Read the docs** - Deep dive into FastF1 API and Pandas
-5. **Add features** - Speed maps, pit stop analysis, overtake detection
-
----
-
 ## 📌 File Descriptions
 
-| File | Purpose |
-|------|---------|
+|          File              |                 Purpose                        |
+|----------------------------|------------------------------------------------|
 | `project_1_race_replay.py` | Main Python script with all visualization code |
-| `requirements.txt` | List of Python packages needed |
-| `docs/SETUP_GUIDE.md` | Detailed installation & setup instructions |
-| `docs/QUICK_REFERENCE.md` | Code examples, FastF1 basics, debugging |
-| `outputs/` | Folder where PNG images are saved |
+| `requirements.txt`         | List of Python packages needed                 |
+| `docs/SETUP_GUIDE.md`      | Detailed installation & setup instructions     |
+| `docs/QUICK_REFERENCE.md`  | Code examples, FastF1 basics, debugging        |
+| `outputs/`                 | Folder where PNG images are saved              |
 
 ---
 
@@ -207,28 +183,6 @@ pip install --upgrade fastf1
 2. **Recent seasons are best** - 2023-2024 have complete data
 3. **Experiment fearlessly** - You can't break anything by changing code
 4. **Add your own analysis** - Speed profiles, g-force maps, pit stop timing
-
----
-
-## 🚀 Ready to Start?
-
-```bash
-# 1. Install packages
-pip install -r requirements.txt
-
-# 2. Run the project
-python project_1_race_replay.py
-
-# 3. Check outputs/ folder for PNG images
-```
-
----
-
-## 📞 Help & Support
-
-- **Setup issues?** → Check `docs/SETUP_GUIDE.md`
-- **Don't understand code?** → Check `docs/QUICK_REFERENCE.md`
-- **Want to customize?** → Read the Python comments in `project_1_race_replay.py`
 
 ---
 
@@ -253,5 +207,8 @@ After mastering Project 1:
 - **Project 3: The Web Paddock** 🌐 - Full-stack web app (React + FastAPI)
 
 ---
+## 👩‍💻 Developed By:
 
+*K. Sailaja*  
+B.Tech — Computer Science & Engineering 
 **Happy coding! Let's go racing! 🏎️💨**
