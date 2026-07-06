@@ -1,4 +1,4 @@
-<img width="1705" height="800" alt="C__WINDOWS_system32_cmd exe - python  project_1_race_replay py 7_6_2026 11_56_56 PM" src="https://github.com/user-attachments/assets/5803656d-7bde-4dbd-b314-24e1effd2664" /># 🏁 PROJECT 1: THE RACE REPLAY
+# 🏁 PROJECT 1: THE RACE REPLAY
 
 **F1 Race Visualization using FastF1 API**
 
