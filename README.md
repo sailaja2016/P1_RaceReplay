@@ -6,7 +6,7 @@ A Python project that visualizes Formula 1 races in 2D, showing track layouts an
 
 ---
 
-## 📦 Project Structure
+## 📦 Project Structure:
 
 ```
 Project_1_Race_Replay/
@@ -23,7 +23,7 @@ Project_1_Race_Replay/
 
 ---
 
-## 🚀 IF YOU WANNA TRY TOO THEN QUICK TIPS (5 Minutes)
+## 🚀 IF YOU WANT TO TRY THIS TOO:
 
 ### 1️⃣ Install Python Packages
 Open your terminal/command prompt and run:
@@ -45,14 +45,14 @@ python project_1_race_replay.py
 - Creates 2 PNG visualizations in the `outputs/` folder
 - Opens visualization windows
 
-### 3️⃣ View the Results
+### 3️⃣ View the results:
 Two images will be created:
 - **race_replay_lap_10.png** - Cars at lap 10
 - **race_progression.png** - Race evolution at laps 5, 15, 25, 35
 
 ---
 
-## 🎯 What You'll Learn
+## 🎯 What you'll learn here:
 
 ✅ FastF1 API - Fetching real F1 data  
 ✅ Data Analysis with Pandas  
@@ -62,7 +62,7 @@ Two images will be created:
 
 ---
 
-## 📖 Documentation
+## 📖 Documentation:
 
 ### For Setup Help
 → Read **`docs/SETUP_GUIDE.md`**
@@ -70,16 +70,9 @@ Two images will be created:
 - Troubleshooting common issues
 - How to modify races/sessions
 
-### For Code Learning
-→ Read **`docs/QUICK_REFERENCE.md`**
-- FastF1 API explained
-- Code examples
-- Debugging tips
-- How to customize visualizations
-
 ---
 
-## 🔧 Customization Examples
+## 🔧 Examples for Customization 
 
 ### Change Which Race to Visualize
 Edit `project_1_race_replay.py`, find the `main()` function:
@@ -90,23 +83,6 @@ def main():
     ROUND = 6        # Change to 1-24 (1=Bahrain, 6=Spain, etc.)
     SESSION = 'R'    # Change to 'Q' for qualifying, 'FP1' for practice
 ```
-
-**Examples:**
-- 2024 Monaco GP: `YEAR=2024, ROUND=5`
-- 2023 Silverstone (British GP): `YEAR=2023, ROUND=10`
-- 2024 Abu Dhabi GP (Qualifying): `YEAR=2024, ROUND=24, SESSION='Q'`
-
-### Change Which Laps to Visualize
-In `main()`, modify these lines:
-
-```python
-# Single lap
-fig1 = replay.visualize_race_snapshot(lap_num=20)  # Change 20 to any lap
-
-# Multiple laps
-fig2 = replay.visualize_positions_multiple_laps(lap_numbers=[10, 20, 30, 40])
-```
-
 ---
 
 ## 📊 Example Output
@@ -165,7 +141,7 @@ pip install --upgrade fastf1
 
 ---
 
-## 📌 File Descriptions
+## 📌 File Descriptions:
 
 |          File              |                 Purpose                        |
 |----------------------------|------------------------------------------------|
@@ -177,7 +153,7 @@ pip install --upgrade fastf1
 
 ---
 
-## 💡 Pro Tips
+## 💡 Pro Tips:
 
 1. **First run is slow** - Data downloads from internet. Next runs use cache = instant! ⚡
 2. **Recent seasons are best** - 2023-2024 have complete data
@@ -186,7 +162,7 @@ pip install --upgrade fastf1
 
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Goals:
 
 By the end of Project 1, you'll understand:
 
@@ -204,12 +180,9 @@ By the end of Project 1, you'll understand:
 After mastering Project 1:
 
 - **Project 2: The Pit Wall** 📊 - Real-time dashboard with timing gaps
-- **Project 3: The Web Paddock** 🌐 - Full-stack web app (React + FastAPI)
 
 ---
 ## 👩‍💻 Developed By:
 
 *K. Sailaja*  
 B.Tech — Computer Science & Engineering 
-
-**Happy coding! Let's go racing! 🏎️💨**
