@@ -23,7 +23,7 @@ Project_1_Race_Replay/
 
 ---
 
-## 🚀 IF YOU WANT TO TRY THIS TOO:
+## 🚀 If you want to try this:
 
 ### 1️⃣ Install Python Packages
 Open your terminal/command prompt and run:
@@ -85,11 +85,11 @@ def main():
 ```
 ---
 
-## 📊 Example Output
+## 📊 Example output
 
 When you run the script, you'll get:
 
-### Terminal Output:
+### Terminal output:
 ```
 ============================================================
 PROJECT 1: F1 RACE REPLAY 🏁
@@ -115,8 +115,8 @@ Top 10 Finishers:
 
 ---
 
-### Visual Output:
-Two PNG files showing:
+### Visual output:
+Two PNG files are being shown:
 <img width="1600" height="818" alt="Figure 1 7_6_2026 11_55_40 PM" src="https://github.com/user-attachments/assets/de1739b9-db71-467d-9a87-5c4370746165" />
 <img width="1594" height="865" alt="Figure 1 7_6_2026 11_56_41 PM" src="https://github.com/user-attachments/assets/e3678721-4dd1-4c45-85a9-668c31e7c4e3" />
 
@@ -141,7 +141,7 @@ pip install --upgrade fastf1
 
 ---
 
-## 📌 File Descriptions:
+## 📌 File descriptions:
 
 |          File              |                 Purpose                        |
 |----------------------------|------------------------------------------------|
@@ -153,7 +153,7 @@ pip install --upgrade fastf1
 
 ---
 
-## 💡 Pro Tips:
+## 💡 Pro tips:
 
 1. **First run is slow** - Data downloads from internet. Next runs use cache = instant! ⚡
 2. **Recent seasons are best** - 2023-2024 have complete data
@@ -162,9 +162,9 @@ pip install --upgrade fastf1
 
 ---
 
-## 🎯 Project Goals:
+## 🎯 Project goals:
 
-By the end of Project 1, you'll understand:
+By the end of Project 1, we'll understand:
 
 - [ ] How to use FastF1 to get F1 data
 - [ ] Working with pandas DataFrames
@@ -175,14 +175,14 @@ By the end of Project 1, you'll understand:
 
 ---
 
-## ⏭️ What's Next?
+## ⏭️ What's next?
 
 After mastering Project 1:
 
 - **Project 2: The Pit Wall** 📊 - Real-time dashboard with timing gaps
 
 ---
-## 👩‍💻 Developed By:
+## 👩‍💻 Developed by:
 
 *K. Sailaja*  
 B.Tech — Computer Science & Engineering 
